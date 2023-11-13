@@ -16,10 +16,13 @@ public class UserService {
 
    public  UserService(){
 
-      store.add(new User(UUID.randomUUID().toString(),"Shaheer","shaheermajid2002@gmail.com"));
-              store.add(new User(UUID.randomUUID().toString(),"Waqas","Waqqs@gmail.com"));
-      store.add(new User(UUID.randomUUID().toString(),"Rafeeq","Rafeeq@gmail.com"));
-      store.add(new User(UUID.randomUUID().toString(),"Shakeel","Shakeel@gmail.com"));}
+//      store.add(new User(UUID.randomUUID().toString(),"Shaheer","shaheermajid2002@gmail.com"));
+//              store.add(new User(UUID.randomUUID().toString(),"Waqas","Waqqs@gmail.com"));
+//      store.add(new User(UUID.randomUUID().toString(),"Rafeeq","Rafeeq@gmail.com"));
+//      store.add(new User(UUID.randomUUID().toString(),"Shakeel","Shakeel@gmail.com"));
+//
+
+   }
 
 
 
