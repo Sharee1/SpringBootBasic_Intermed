@@ -17,12 +17,13 @@ public class HomeController {
     @Autowired
     private UserService userService;
 
-@GetMapping("/user")
-    public List<User> getUser(){
-
-        System.out.println("HEllo Bhayio");
-        return userService.getUser();
-    }
+//@GetMapping("/user")
+//    public List<User> getUser(){
+//
+//        System.out.println("HEllo Bhayio");
+//       // return userService.getUser();
+//    return
+//    }
 
 
 
